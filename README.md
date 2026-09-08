@@ -1,3 +1,7 @@
+## Parcours français
+
+[Lire les 6 chapitres x402](docs/fr/README.md) : rôles, paiement HTTP, schémas, code client/serveur et limites.
+
 # x402
 
 [![Slack Community](https://img.shields.io/badge/Slack-Join%20Community-4A154B?logo=slack&logoColor=white)](http://slack.x402.org/)
